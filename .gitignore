@@ -4,6 +4,8 @@
 *.dll
 *.so
 *.dylib
+grpc_go
+service
 
 # Test binary, built with `go test -c`
 *.test
